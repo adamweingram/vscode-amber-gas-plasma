@@ -9,3 +9,9 @@ All notable changes to the "amber-gas-plasma" extension will be documented in th
 ### Added
 
 - Initial release with mostly automatically generated colors. Lots of kinks at the moment.
+
+## [0.0.2] - 2023-11-06
+
+### Added
+
+- Simple icon
