@@ -1,7 +1,12 @@
 {
   "name": "amber-gas-plasma",
   "displayName": "Amber Gas Plasma",
-  "description": "The warm amber glow of a gas plasma display, brought directly to your VSCode install.",
+  "description": "The warm amber glow of a gas plasma display, brought directly to your VSCode window. Kind of. Space heater functionality not included.",
+  "publisher": "Adam Weingram",
+  "repository": {
+    "type": "git",
+    "url": "https://www.github.com/adamweingram/vscode-amber-gas-plasma"
+  },
   "version": "0.0.1",
   "engines": {
     "vscode": "^1.84.0"
