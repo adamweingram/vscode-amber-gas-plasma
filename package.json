@@ -1,0 +1,21 @@
+{
+  "name": "amber-gas-plasma",
+  "displayName": "Amber Gas Plasma",
+  "description": "The warm amber glow of a gas plasma display, brought directly to your VSCode install.",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.84.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Amber Gas Plasma",
+        "uiTheme": "hc-black",
+        "path": "./themes/Amber Gas Plasma-color-theme.json"
+      }
+    ]
+  }
+}
